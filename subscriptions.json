@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bestip.txt",
+    "url": "https://raw.githubusercontent.com/michaelrezza/WoW-Go/refs/heads/main/Bestip.txt",
+    "expires": "2025-04-25T12:00:00"
+  },
+  {
+    "name": "Bestip2.txt",
+    "url": "https://raw.githubusercontent.com/michaelrezza/WoW-Go/refs/heads/main/Bestip2.txt",
+    "expires": "2025-04-26T12:00:00"
+  },
+  {
+    "name": "Xray-WoW.json",
+    "url": "https://raw.githubusercontent.com/michaelrezza/WoW-Go/refs/heads/main/Xray-WoW.json",
+    "expires": "2025-04-27T12:00:00"
+  },
+  {
+    "name": "sing-box-hiddify.json",
+    "url": "https://raw.githubusercontent.com/michaelrezza/WoW-Go/refs/heads/main/sing-box-hiddify.json",
+    "expires": "2025-04-28T12:00:00"
+  },
+  {
+    "name": "sing-box.json",
+    "url": "https://raw.githubusercontent.com/michaelrezza/WoW-Go/refs/heads/main/sing-box.json",
+    "expires": "2025-04-29T12:00:00"
+  },
+  {
+    "name": "warp.json",
+    "url": "https://raw.githubusercontent.com/michaelrezza/WoW-Go/refs/heads/main/warp.json",
+    "expires": "2025-04-30T12:00:00"
+  },
+  {
+    "name": "warp2.json",
+    "url": "https://raw.githubusercontent.com/michaelrezza/WoW-Go/refs/heads/main/warp2.json",
+    "expires": "2025-05-01T12:00:00"
+  },
+  {
+    "name": "warpauto.json",
+    "url": "https://raw.githubusercontent.com/michaelrezza/WoW-Go/refs/heads/main/warpauto.json",
+    "expires": "2025-05-02T12:00:00"
+  }
+]
